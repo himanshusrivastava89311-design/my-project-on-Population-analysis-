@@ -1,4 +1,4 @@
-# my-project-on-Population-analysis-This project analyze population data using python
+# My-project-on-Population-analysis-This project analyze population data using python
 
 Overview
 
