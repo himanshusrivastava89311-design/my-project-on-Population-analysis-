@@ -23,6 +23,7 @@ Data visualization using python
 Graph used:
 
 Bar graph-Shows population growth by year
+Bar graph also show the rate of  population growth in India
 Pie chart-Shows India's share in the world population
 
 Conclusion-
